@@ -15,8 +15,8 @@
 }
 
 body {
-    background: rgb(255, 212, 198);
-    background: linear-gradient(90deg, rgba(255, 212, 198, 1) 0%, rgba(255, 206, 240, 1) 0%, rgba(255, 219, 157, 1) 100%);
+    background: rgb(255, 186, 186);
+    background: linear-gradient(90deg, rgba(255, 186, 186, 1) 0%, rgba(0, 80, 255, 1) 100%);
 }
 
 .heading {
@@ -50,17 +50,16 @@ body {
     min-width: 350px;
     max-width: 350px;
     height: 100px;
-    background-color: rgba(255, 255, 255, 0.472);
+    background-color: rgb(212, 205, 255);
     border-radius: 15px 25px 15px 25px;
     box-shadow: 0px 0px 100px rgba(192, 192, 192, 0.546);
-    transition: ease;
+    transition: ease-in;
     transition-duration: .3s;
 }
 
 .item1:hover {
-    background: rgb(255, 255, 255);
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(191, 244, 255, 1) 100%);
-    transform: scale(1.009);
+    background-color: rgb(205, 197, 255);
+    transform: scale(1.03);
 }
 
 .link1 {
@@ -93,7 +92,7 @@ body {
     min-width: 350px;
     max-width: 350px;
     height: 100px;
-    background-color: rgba(255, 255, 255, 0.472);
+    background-color: rgb(212, 205, 255);
     border-radius: 15px 25px 15px 25px;
     box-shadow: 0px 0px 100px rgba(192, 192, 192, 0.546);
     transition: ease;
@@ -101,9 +100,8 @@ body {
 }
 
 .item2:hover {
-    background: rgb(255, 255, 255);
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(191, 244, 255, 1) 100%);
-    transform: scale(1.01);
+    background-color: rgb(205, 197, 255);
+    transform: scale(1.03);
 }
 
 .link2 {
@@ -136,7 +134,7 @@ body {
     min-width: 350px;
     max-width: 350px;
     height: 100px;
-    background-color: rgba(255, 255, 255, 0.472);
+    background-color: rgb(212, 205, 255);
     border-radius: 15px 25px 15px 25px;
     box-shadow: 0px 0px 100px rgba(192, 192, 192, 0.546);
     transition: ease;
@@ -144,9 +142,8 @@ body {
 }
 
 .item3:hover {
-    background: rgb(255, 255, 255);
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(191, 244, 255, 1) 100%);
-    transform: scale(1.01);
+    background-color: rgb(205, 197, 255);
+    transform: scale(1.03);
 }
 
 .link3 {
@@ -179,7 +176,7 @@ body {
     min-width: 350px;
     max-width: 350px;
     height: 100px;
-    background-color: rgba(255, 255, 255, 0.472);
+    background-color: rgb(212, 205, 255);
     border-radius: 15px 25px 15px 25px;
     box-shadow: 0px 0px 100px rgba(192, 192, 192, 0.546);
     margin-bottom: 50px;
@@ -188,9 +185,8 @@ body {
 }
 
 .item4:hover {
-    background: rgb(255, 255, 255);
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(191, 244, 255, 1) 100%);
-    transform: scale(1.01);
+    background-color: rgb(205, 197, 255);
+    transform: scale(1.03);
 }
 
 .link4 {
